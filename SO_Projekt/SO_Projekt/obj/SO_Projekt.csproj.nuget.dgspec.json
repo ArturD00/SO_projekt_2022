@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hindu\\Desktop\\zananie_domowe\\SystemyOperacyjne\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj": {}
+    "E:\\Downloads\\Studia INF\\4Semestr\\Systemy Operacyjne\\Projekt\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hindu\\Desktop\\zananie_domowe\\SystemyOperacyjne\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj": {
+    "E:\\Downloads\\Studia INF\\4Semestr\\Systemy Operacyjne\\Projekt\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hindu\\Desktop\\zananie_domowe\\SystemyOperacyjne\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj",
+        "projectUniqueName": "E:\\Downloads\\Studia INF\\4Semestr\\Systemy Operacyjne\\Projekt\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj",
         "projectName": "SO_Projekt",
-        "projectPath": "C:\\Users\\hindu\\Desktop\\zananie_domowe\\SystemyOperacyjne\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj",
-        "packagesPath": "C:\\Users\\hindu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hindu\\Desktop\\zananie_domowe\\SystemyOperacyjne\\SO_Projekt\\SO_Projekt\\obj\\",
+        "projectPath": "E:\\Downloads\\Studia INF\\4Semestr\\Systemy Operacyjne\\Projekt\\SO_Projekt\\SO_Projekt\\SO_Projekt.csproj",
+        "packagesPath": "C:\\Users\\IS\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads\\Studia INF\\4Semestr\\Systemy Operacyjne\\Projekt\\SO_Projekt\\SO_Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hindu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

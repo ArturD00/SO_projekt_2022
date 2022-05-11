@@ -5,12 +5,37 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SO_Projekt"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Canvas x:Name="mapa" Background="Gray" Focusable="true" >
-        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="100" Canvas.Top="400"/>
-        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="100" Canvas.Top="200"/>
-        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="400" Canvas.Top="200"/>
-        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="400" Canvas.Top="500"/>
+        Title="MainWindow" Height="558" Width="800">
 
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/mapa_v2.png"  Stretch="Fill" />
+    </Window.Background>
+
+    <Canvas x:Name="mapa" Focusable="true">
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="770" Canvas.Top="425" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="165" Canvas.Top="425" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="117" Canvas.Top="384" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="127" Canvas.Top="321" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="200" Canvas.Top="311" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="445" Canvas.Top="311" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="578" Canvas.Top="301" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="629" Canvas.Top="261" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="639" Canvas.Top="186" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="568" Canvas.Top="131" Tag="P"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="10" Canvas.Top="131" Tag="P"/>
+
+
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="10" Canvas.Top="165" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="478" Canvas.Top="155" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="558" Canvas.Top="176" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="588" Canvas.Top="211" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="558" Canvas.Top="261" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="445" Canvas.Top="271" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="175" Canvas.Top="271" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="93" Canvas.Top="301" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="83" Canvas.Top="415" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="165" Canvas.Top="463" Tag="L"/>
+        <Rectangle Fill="Aqua" Height="20" Width="20" Canvas.Left="770" Canvas.Top="463" Tag="L"/>
+        
     </Canvas>
 </Window>

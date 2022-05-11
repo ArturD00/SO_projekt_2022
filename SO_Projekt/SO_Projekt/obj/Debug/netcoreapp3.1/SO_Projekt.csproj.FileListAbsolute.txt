@@ -18,3 +18,23 @@ C:\Users\hindu\Desktop\zananie_domowe\SystemyOperacyjne\SO_Projekt\SO_Projekt\ob
 C:\Users\hindu\Desktop\zananie_domowe\SystemyOperacyjne\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.dll
 C:\Users\hindu\Desktop\zananie_domowe\SystemyOperacyjne\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.pdb
 C:\Users\hindu\Desktop\zananie_domowe\SystemyOperacyjne\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.genruntimeconfig.cache
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\bin\Debug\netcoreapp3.1\SO_Projekt.exe
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\bin\Debug\netcoreapp3.1\SO_Projekt.deps.json
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\bin\Debug\netcoreapp3.1\SO_Projekt.runtimeconfig.json
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\bin\Debug\netcoreapp3.1\SO_Projekt.runtimeconfig.dev.json
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\bin\Debug\netcoreapp3.1\SO_Projekt.dll
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\bin\Debug\netcoreapp3.1\SO_Projekt.pdb
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.csproj.AssemblyReference.cache
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt_MarkupCompile.cache
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt_MarkupCompile.lref
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.g.resources
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.AssemblyInfoInputs.cache
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.AssemblyInfo.cs
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.csproj.CoreCompileInputs.cache
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.dll
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.pdb
+E:\Downloads\Studia INF\4Semestr\Systemy Operacyjne\Projekt\SO_Projekt\SO_Projekt\obj\Debug\netcoreapp3.1\SO_Projekt.genruntimeconfig.cache
