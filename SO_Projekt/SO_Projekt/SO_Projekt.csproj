@@ -7,10 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\Auto.png" />
     <None Remove="Images\mapa_v2.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\Auto.png" />
     <Resource Include="Images\mapa_v2.png" />
   </ItemGroup>
 
